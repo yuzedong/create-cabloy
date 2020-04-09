@@ -1,5 +1,5 @@
 {
-  "name": "create-cabloy",
+  "name": "create-wantcms",
   "version": "1.1.1",
   "description": "so you could use `npm init cabloy showcase` to init cabloy project",
   "bin": "./bin/create-cabloy.js",
