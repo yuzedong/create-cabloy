@@ -2,4 +2,4 @@
 
 'use strict';
 
-require('egg-born/bin/egg-born');
+require('@yuzedong/egg-born/bin/egg-born');
